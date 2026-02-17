@@ -16,16 +16,6 @@ Features
 * Explicit exceptions
 * Happiness
 
-Roadmap
--------
-
-* :code:`Webportal` instantiation with :code:`WebportalSession` (for cached sessions)
-* Cover more endpoints
-* Drink water
-* Sleep more than 2 hours in a day
-* Meetup with the people who designed JIIT Webportal
-* Heavily judge their design choices
-
 
 
 Credits
