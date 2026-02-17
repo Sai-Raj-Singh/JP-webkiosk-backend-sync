@@ -27,16 +27,6 @@ Roadmap
 * Heavily judge their design choices
 
 
-Dependencies
-------------
-
-* requests
-* pycryptodome (this is explicit for very interesting reasons)
-* NESCAFE
-* `Dopamine Dose`_
-
-.. _Dopamine Dose: https://open.spotify.com/playlist/3MD5jRlnXlLrMacF9rirOv?si=pH4WlKBPRyaJUokQwoehnA
-
 
 Credits
 -------
